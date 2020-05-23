@@ -14,7 +14,15 @@ _Unity Version_
 ```
 
 ## Preview 🛠️
-![](objectpooling1.gif)![](objectpooling2.gif)
+_Always reuse_
+_/Siempre Reutiliza_
+
+![](objectpooling1.gif)
+
+_Project Preview_
+_/Previsualizacion del Proyecto_
+
+![](objectpooling2.gif)
 
 
 
@@ -23,8 +31,6 @@ _Unity Version_
 ## Expresiones de Gratitud 🎁
 
 * Comenta a otros sobre este proyecto 📢
-* Invita una cerveza 🍺 o un café ☕ a alguien del equipo. 
 * Da las gracias públicamente 🤓.
-* etc.
 
 
